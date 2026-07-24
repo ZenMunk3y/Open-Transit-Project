@@ -34,3 +34,5 @@ Please:
 Use clear descriptions:
 
 Example:
+Added Ford Transit L4 dimensions reference
+Updated Blender wheel geometry
