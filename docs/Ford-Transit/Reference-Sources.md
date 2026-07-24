@@ -225,4 +225,59 @@ Models should maintain:
 
 # Reference File Naming Convention
 
+FORD_TRANSIT_MK8_L3H3_[TYPE][DESCRIPTION][DATE]
+
+Examples:
+
+FORD_TRANSIT_MK8_L3H3_BLUEPRINT_SIDE_2026
+FORD_TRANSIT_MK8_L3H3_CARGO_FLOOR_2026
+
+
+---
+
+# Source Log
+
+| Date Added | Source | Type | Reliability | Notes |
+|---|---|---|---|---|
+| | | | | |
+
+---
+
+# Outstanding Research Tasks
+
+## Technical Data
+
+⬜ Obtain Ford Body Builder drawings  
+⬜ Confirm exact L3 wheelbase dimensions  
+⬜ Confirm H3 overall height  
+⬜ Confirm cargo dimensions  
+⬜ Confirm door opening measurements  
+
+---
+
+## Visual References
+
+⬜ Collect exterior photographs  
+⬜ Collect cargo area photographs  
+⬜ Collect cab photographs  
+⬜ Identify conversion examples  
+
+---
+
+## Physical Verification
+
+⬜ Establish measurement checklist  
+⬜ Record vehicle inspection measurements  
+⬜ Compare measurements against technical drawings  
+
+---
+
+# Revision History
+
+| Date | Change | Author |
+|---|---|---|
+| Initial | Created reference tracking framework | Open Transit Project |
+| Updated | Added MK8 L3H3 AWD RHD source requirements | Open Transit Project |
+
+
 Recommended format:
